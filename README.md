@@ -1,3 +1,3 @@
 # skrypt
 
-siemano siemano zrub zadymke
+LUA addons
